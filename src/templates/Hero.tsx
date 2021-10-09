@@ -12,13 +12,8 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/">
-            <a>Sign in</a>
+          <Link href="https://store.shoopy.in/bmis-smart-home">
+            <a>Store</a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -35,7 +30,7 @@ const Hero = () => (
         description="Control all of your home appliances from your smartphone"
         subDescription="From Anytime. Anywhere"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://store.shoopy.in/bmis-smart-home">
             <a>
               <Button xl>Explore All Products</Button>
             </a>

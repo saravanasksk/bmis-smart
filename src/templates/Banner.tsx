@@ -10,7 +10,7 @@ const Banner = () => (
       title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
       subtitle="Start your Free Trial."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://store.shoopy.in/bmis-smart-home">
           <a>
             <Button>Explore All Products</Button>
           </a>

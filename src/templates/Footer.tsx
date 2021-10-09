@@ -82,12 +82,12 @@ const Footer = () => (
         </li>
         <li>
           <Link href="/">
-            <a>Docs</a>
+            <a>Products</a>
           </Link>
         </li>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
+          <Link href="https://store.shoopy.in/bmis-smart-home">
+            <a>Shop</a>
           </Link>
         </li>
       </CenteredFooter>
