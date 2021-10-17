@@ -32,7 +32,7 @@ const Hero = () => (
         button={
           <Link href="https://store.shoopy.in/bmis-smart-home">
             <a>
-              <Button xl>Explore All Products</Button>
+              <Button xl>EXPLORE ALL PRODUCTS</Button>
             </a>
           </Link>
         }
